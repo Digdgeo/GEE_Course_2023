@@ -4,7 +4,7 @@ Repositorio para el curso de Introducción a Google Earth Engine del Gabinete de
 
 El curso se divide en 2 partes:
 
-Una primera parte de presentación de Google Earth Engine (Explorer y code-editor) en la que trabajaremos con Javascript, y una segunda parte en la que se usara la librería Geemap y la API de python para trabajar con Google Earth Engine desde un entorno Jupyter (Colab o notebook local).
+Una primera parte de presentación de Google Earth Engine (Explorer y code-editor) en la que trabajaremos con Javascript, y una segunda parte en la que se usara la librería Geemap y la API de python para trabajar con Google Earth Engine desde un entorno Jupyter (Colab o Notebook local).
 
 # 1. Javascript:
 
@@ -12,12 +12,12 @@ Una primera parte de presentación de Google Earth Engine (Explorer y code-edito
 
 [Google Earth Engine Explorer](https://explorer.earthengine.google.com/#workspace)
 
-[Basic Javascript](https://github.com/Digdgeo/GEE_Course_2022/blob/main/Dia1/Geometries.js)
+[Basic Javascript](https://github.com/Digdgeo/GEE_Course_2023/blob/master/Dia1/Javascript%20B%C3%A1sico.js)
 
-[Geometries](https://github.com/Digdgeo/GEE_Course_2022/blob/main/Dia1/Geometries.js)
+[Geometries](https://github.com/Digdgeo/GEE_Course_2023/blob/master/Dia1/Geometries.js)
 
-[DTM Slope, Elevation, Aspect and NDVI Masked](https://github.com/Digdgeo/GEE_Course_2022/blob/main/Dia1/DTM_NDVI_Masked.js)
+[DTM Slope, Elevation, Aspect and NDVI Masked](https://github.com/Digdgeo/GEE_Course_2023/blob/master/Dia1/DTM_NDVI_Masked.js)
 
-[Zonal Statistics](https://github.com/Digdgeo/GEE_Course_2022/blob/main/Dia1/Geometries.js)
+[Zonal Statistics](https://github.com/Digdgeo/GEE_Course_2023/blob/master/Dia1/srtm_municipios_zonal_stats.js)
 
 ![DEM](https://i.imgur.com/B6IZv2z.jpg)
