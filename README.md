@@ -10,6 +10,8 @@ Una primera parte de presentación de Google Earth Engine (Explorer y code-edito
 
 ## Día 1
 
+[Presentación en pdf](https://github.com/Digdgeo/GEE_Course_2023/blob/master/Dia1/Presentacion_dia_1.pdf)
+
 [Google Earth Engine Explorer](https://explorer.earthengine.google.com/#workspace)
 
 [Basic Javascript](https://github.com/Digdgeo/GEE_Course_2023/blob/master/Dia1/Javascript%20B%C3%A1sico.js)
