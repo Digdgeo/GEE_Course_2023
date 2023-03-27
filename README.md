@@ -26,4 +26,12 @@ Una primera parte de presentación de Google Earth Engine (Explorer y code-edito
 
 [Zonal Statistics](https://media4.giphy.com/media/dBsUACbhvDROt9pbFO/giphy.gif?cid=ecf05e47oufszcjo153r6zv1hh175xw1l8gp95d1kafocuol&rid=giphy.gif&ct=g)
 
+[Reducers](https://media4.giphy.com/media/dBsUACbhvDROt9pbFO/giphy.gif?cid=ecf05e47oufszcjo153r6zv1hh175xw1l8gp95d1kafocuol&rid=giphy.gif&ct=g)
+
+[Calculo de Índices](https://media4.giphy.com/media/dBsUACbhvDROt9pbFO/giphy.gif?cid=ecf05e47oufszcjo153r6zv1hh175xw1l8gp95d1kafocuol&rid=giphy.gif&ct=g)
+
+[NDVI Multi-Temporal](https://media4.giphy.com/media/dBsUACbhvDROt9pbFO/giphy.gif?cid=ecf05e47oufszcjo153r6zv1hh175xw1l8gp95d1kafocuol&rid=giphy.gif&ct=g)
+
+[Sentinel 1 Ships](https://media4.giphy.com/media/dBsUACbhvDROt9pbFO/giphy.gif?cid=ecf05e47oufszcjo153r6zv1hh175xw1l8gp95d1kafocuol&rid=giphy.gif&ct=g)
+
 ![Sentinel 1 Ships](https://i.imgur.com/5QhgqlP.jpg)
