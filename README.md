@@ -42,4 +42,6 @@ Una primera parte de presentación de Google Earth Engine (Explorer y code-edito
 
 [Combining Datasets](https://giphy.com/gifs/reaction-explosion-government-13d2jHlSlxklVe)
 
+[Sentinel 2 Classification](https://giphy.com/gifs/reaction-explosion-government-13d2jHlSlxklVe)
+
 ![Sentinel 1 Ships](https://i.imgur.com/5QhgqlP.jpg)
