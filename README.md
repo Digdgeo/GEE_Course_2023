@@ -44,6 +44,6 @@ Una primera parte de presentación de Google Earth Engine (Explorer y code-edito
 
 [Sentinel 2 Classification](https://github.com/Digdgeo/GEE_Course_2023/blob/master/Dia3/ClassificationS2.js)
 
-[Combining Datasets](https://giphy.com/gifs/reaction-explosion-government-13d2jHlSlxklVe)
+[Combining Datasets](https://github.com/Digdgeo/GEE_Course_2023/blob/master/Dia3/lights_and_urban_areas.js)
 
 ![Sentinel 1 Ships](https://i.imgur.com/5QhgqlP.jpg)
