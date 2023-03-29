@@ -26,11 +26,13 @@ Una primera parte de presentación de Google Earth Engine (Explorer y code-edito
 
 [DTM Slope, Elevation, Aspect and NDVI Masked](https://media4.giphy.com/media/dBsUACbhvDROt9pbFO/giphy.gif?cid=ecf05e47oufszcjo153r6zv1hh175xw1l8gp95d1kafocuol&rid=giphy.gif&ct=g)
 
-[Zonal Statistics](https://media4.giphy.com/media/dBsUACbhvDROt9pbFO/giphy.gif?cid=ecf05e47oufszcjo153r6zv1hh175xw1l8gp95d1kafocuol&rid=giphy.gif&ct=g)
+[Zonal Statistics](https://github.com/Digdgeo/GEE_Course_2023/blob/master/Dia2/Zonal_Statistics.js)
 
-[Cálculo de Índices](https://media4.giphy.com/media/dBsUACbhvDROt9pbFO/giphy.gif?cid=ecf05e47oufszcjo153r6zv1hh175xw1l8gp95d1kafocuol&rid=giphy.gif&ct=g)
+[Cálculo de Índices](https://github.com/Digdgeo/GEE_Course_2023/blob/master/Dia2/CalculoDeIndices.js)
 
-[NDVI Multi-Temporal](https://media4.giphy.com/media/dBsUACbhvDROt9pbFO/giphy.gif?cid=ecf05e47oufszcjo153r6zv1hh175xw1l8gp95d1kafocuol&rid=giphy.gif&ct=g)
+[NDVI Multi-Temporal](https://github.com/Digdgeo/GEE_Course_2023/blob/master/Dia2/NDVI_Seasonal.js)
+
+[Video Día 2](https://balanbbb.corp.csic.es/playback/presentation/2.3/8084dfc85fca717da4c1ec45ea4d414cfd63dddf-1679986075024?meetingId=8084dfc85fca717da4c1ec45ea4d414cfd63dddf-1679986075024)
 
 ![NDVI Multi-Temporal](https://i.imgur.com/EyjG2av.jpg)
 
@@ -38,10 +40,10 @@ Una primera parte de presentación de Google Earth Engine (Explorer y code-edito
 
 [Sentinel 1 Ships](https://giphy.com/gifs/reaction-explosion-government-13d2jHlSlxklVe)
 
-[Reducers, NDWI and Mapping Collection](https://giphy.com/gifs/reaction-explosion-government-13d2jHlSlxklVe)
-
-[Combining Datasets](https://giphy.com/gifs/reaction-explosion-government-13d2jHlSlxklVe)
+[Reducers, NDWI and Mapping Collections](https://giphy.com/gifs/reaction-explosion-government-13d2jHlSlxklVe)
 
 [Sentinel 2 Classification](https://giphy.com/gifs/reaction-explosion-government-13d2jHlSlxklVe)
+
+[Combining Datasets](https://giphy.com/gifs/reaction-explosion-government-13d2jHlSlxklVe)
 
 ![Sentinel 1 Ships](https://i.imgur.com/5QhgqlP.jpg)
