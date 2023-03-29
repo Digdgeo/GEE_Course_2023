@@ -38,11 +38,11 @@ Una primera parte de presentación de Google Earth Engine (Explorer y code-edito
 
 ## Día 3
 
-[Sentinel 1 Ships](https://giphy.com/gifs/reaction-explosion-government-13d2jHlSlxklVe)
+[Sentinel 1 Ships](https://github.com/Digdgeo/GEE_Course_2023/blob/master/Dia3/Sentinel1Ships.js)
 
-[Reducers, NDWI and Mapping Collections](https://giphy.com/gifs/reaction-explosion-government-13d2jHlSlxklVe)
+[Reducers, NDWI and Mapping Collections](https://github.com/Digdgeo/GEE_Course_2023/blob/master/Dia3/NDWI_Dates.js)
 
-[Sentinel 2 Classification](https://giphy.com/gifs/reaction-explosion-government-13d2jHlSlxklVe)
+[Sentinel 2 Classification](https://github.com/Digdgeo/GEE_Course_2023/blob/master/Dia3/ClassificationS2.js)
 
 [Combining Datasets](https://giphy.com/gifs/reaction-explosion-government-13d2jHlSlxklVe)
 
