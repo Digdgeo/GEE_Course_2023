@@ -24,7 +24,7 @@ Una primera parte de presentación de Google Earth Engine (Explorer y code-edito
 
 ## Día 2
 
-[DTM Slope, Elevation, Aspect and NDVI Masked](https://media4.giphy.com/media/dBsUACbhvDROt9pbFO/giphy.gif?cid=ecf05e47oufszcjo153r6zv1hh175xw1l8gp95d1kafocuol&rid=giphy.gif&ct=g)
+[DTM Slope, Elevation, Aspect and NDVI Masked](https://github.com/Digdgeo/GEE_Course_2023/blob/master/Dia2/DTM_NDVI_Masked.js)
 
 [Zonal Statistics](https://github.com/Digdgeo/GEE_Course_2023/blob/master/Dia2/Zonal_Statistics.js)
 
