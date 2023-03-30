@@ -18,8 +18,6 @@ Una primera parte de presentación de Google Earth Engine (Explorer y code-edito
 
 [Geometries](https://github.com/Digdgeo/GEE_Course_2023/blob/master/Dia1/Geometries.js)
 
-[Video Día 1](https://balanbbb.corp.csic.es/playback/presentation/2.3/8084dfc85fca717da4c1ec45ea4d414cfd63dddf-1679900201215?meetingId=8084dfc85fca717da4c1ec45ea4d414cfd63dddf-1679900201215)
-
 ![DEM](https://i.imgur.com/B6IZv2z.jpg)
 
 ## Día 2
