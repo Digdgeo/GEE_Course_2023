@@ -64,6 +64,12 @@ Una primera parte de presentación de Google Earth Engine (Explorer y code-edito
 
 [Video Día 3](https://balanbbb.corp.csic.es/playback/presentation/2.3/8084dfc85fca717da4c1ec45ea4d414cfd63dddf-1680072970986?meetingId=8084dfc85fca717da4c1ec45ea4d414cfd63dddf-1680072970986)
 
+[Video Día 4](https://balanbbb.corp.csic.es/playback/presentation/2.3/8084dfc85fca717da4c1ec45ea4d414cfd63dddf-1680159385052?meetingId=8084dfc85fca717da4c1ec45ea4d414cfd63dddf-1680159385052)
+
+[Video Día 5](https://balanbbb.corp.csic.es/playback/presentation/2.3/8084dfc85fca717da4c1ec45ea4d414cfd63dddf-1680245791971?meetingId=8084dfc85fca717da4c1ec45ea4d414cfd63dddf-1680245791971)
+
+
+
 ## Recursos Web
 
 [Google Earth Engine for Water Resources Management](https://courses.spatialthoughts.com/gee-water-resources-management.html) {autor: **Ujaval Gandhi**}
